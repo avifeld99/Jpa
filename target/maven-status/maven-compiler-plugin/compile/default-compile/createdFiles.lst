@@ -1,0 +1,5 @@
+be\intecbrussel\model\Country.class
+be\intecbrussel\MainApp.class
+be\intecbrussel\service\CountryService.class
+be\intecbrussel\connection\EntityManagerProvider.class
+be\intecbrussel\repository\CountryRepository.class
